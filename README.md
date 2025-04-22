@@ -11,7 +11,7 @@
 
 ### Demo Screeshots
 
-![Dentelo Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Dentelo Desktop Demo](./readme-images/20250422_212111.png "Desktop Demo")
 
 ### Contact
 
