@@ -15,6 +15,11 @@
 
 ### Contact
 
-If you want to contact with me you can reach me at [facebook](https://www.twitter.com/ararsogx).
+If you want to contact with me you can reach me at [facebook](https://m.facebook.com/ararsogx).
+
+[telegram]
+.(https://t.me/creativegx).
+
+
 
 
